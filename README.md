@@ -5,8 +5,8 @@
 </div>
 
 ### Machine Learning Engineer
-- Machine Learing Engineer in Trasportation industry(Mobility - Car Sharing, Ride Hailing)
-- I organize a group of developers who write blog posts - 글쓰는 개발자 모임, [글또](https://bit.ly/geultto)
+- Machine Learing Engineer in Trasportation industry
+- I organize a group of developers who write blog posts
 
 ### Interest
 - MLOps(Machine Learing Operation - Especially, ML/DL Model Production)
