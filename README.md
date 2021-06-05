@@ -5,7 +5,7 @@
 </div>
 
 ### 데싸 입니다.
-- 데이터 사이언티스트 in ABC Corp.
+- 엔코아 테스트
 - I organize a group of developers who write blog posts
 
 ### Interest
